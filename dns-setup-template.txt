@@ -1,0 +1,25 @@
+Hello $CUSTOMER,
+
+We have successfully received your payment and your Virtual Private Server (VPS) is ready for access!
+
+What to expect now?
+
+1. Keep an eye on your Inbox/Spam folder for an Email titled "Linode User Created" from "support@linode.com" This will allow you to login to Linode Cloud Manager.
+    - If you do not get this email, please engage our Support Team. We will ensure you gain access ASAP.
+
+2. We have configured your WordPress VPS for the following Domain $CUSTOMER-FQDN
+    - If you manage your own DNS records, you will need to set the "DNS Values for Customer Setup" below.
+    - 
+
+-DNS Values for Customer Setup-
+
+A: <IPv4 Address>
+AAAA: <IPv6 Address>
+CNAME: www @ <QUIC.cloud Provided>
+
+
+Submit a Support Ticket: 
+Cloud Manager Login: 
+Public Knowledge Base:
+Scope of Support: 
+
