@@ -19,7 +19,6 @@ CNAME: www @ <QUIC.cloud Provided>
 
 
 Submit a Support Ticket: 
-Cloud Manager Login: 
-Public Knowledge Base:
-Scope of Support: 
+Cloud Manager Login: https://cloud.linode.com
+Public Knowledge Base: https://docs.bluebotpc.com
 
